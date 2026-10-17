@@ -1,4 +1,5 @@
 #include "mmvq.cuh"
+#include "type-traits.cuh"
 #include "quantize.cuh"
 #include "unary.cuh"
 #include "vecdotq.cuh"

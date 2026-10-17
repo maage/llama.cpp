@@ -1,6 +1,7 @@
 #pragma once
 
 #include "common.cuh"
+#include "type-traits.cuh"
 
 #include <climits>
 #include <cstdint>
